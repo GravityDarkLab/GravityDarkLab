@@ -4,7 +4,7 @@
 </p>
 
 - 🎓  I'm currently studying Computer Science at the Technical University of Munich.
-- 💡 I like to explore new technologies and develop software solutions.
+- 💡 I like to explore new technologies and to develop software solutions.
 
 ### 🛠 &nbsp;Tech Stack
 
