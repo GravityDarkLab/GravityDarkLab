@@ -21,6 +21,16 @@
 ![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=Xcode)&nbsp;
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift)
 
+
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashraf-labidi-0xff3e)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![](https://komarev.com/ghpvc/?username=GravityDarkLab&color=red)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GravityDarkLab)
+
+</div>
+
+
 <!---
 GravityDarkLab/GravityDarkLab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
