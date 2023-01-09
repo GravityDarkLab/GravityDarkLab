@@ -3,8 +3,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Smooth%20seas%20do%20not%20make%20skillful%20sailors;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 
-- 🎓  I'm currently studying Computer Science at the Technical University of Munich.
-- 💡 I like to explore new technologies and to develop software solutions.
+- 🎓  I'm currently doing my bachelor in Computer Science at the Technical University of Munich.
+- 💡 I like to explore new technologies and develop software solutions.
+- 👨🏼‍💻 Never stop learning.
 
 ### 🛠 &nbsp;Tech Stack
 
