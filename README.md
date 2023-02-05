@@ -27,9 +27,6 @@
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashraf-labidi-0xff3e)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![](https://komarev.com/ghpvc/?username=GravityDarkLab&color=red)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GravityDarkLab)
-
  
 </div>
 
