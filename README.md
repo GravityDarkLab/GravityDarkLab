@@ -21,7 +21,10 @@
 ![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=Xcode)&nbsp;
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)
 
 
 <div align="center">
