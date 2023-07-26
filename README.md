@@ -1,36 +1,50 @@
-<h1 align="center"> Welcome to GravityDarkLab's Github <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Smooth%20seas%20do%20not%20make%20skillful%20sailors;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
-
-- 🎓  I'm currently doing my bachelor in Computer Science at the Technical University of Munich.
-- 💡 I like to explore new technologies and develop software solutions.
-- 👨🏼‍💻 Never stop learning.
-
-### 🛠 &nbsp;Tech Stack
-
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Spring](https://img.shields.io/badge/-spring-05122A?style=flat&logo=spring&logoColor=BD70B)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=48BBFD)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![Ocaml](https://img.shields.io/badge/-OCaml-05122A?style=flat&logo=OCaml)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=IntelliJIDEA)&nbsp;
-![Xcode](https://img.shields.io/badge/-Xcode-05122A?style=flat&logo=Xcode)&nbsp;
-![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift)&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-05122A?&logo=Docker)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=React)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript)
-
+<h1 align="center"> 🚀 Welcome to GravityDarkLab's Universe <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashraf-labidi-0xff3e)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; ![](https://komarev.com/ghpvc/?username=GravityDarkLab&color=red)
- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=009FEE&lines=Computer+Science+Undergraduate;Tech+Enthusiast;Innovative+Software+Developer;Constant+Learner+in+the+Digital+Sea)](https://git.io/typing-svg)
+</div>
+
+📚 **About Me:**
+
+- 🎓  Venturing into the universe of Computer Science at the Technical University of Munich.
+- 🕹️ Passionate about exploring cutting-edge technologies and crafting innovative software solutions.
+- 🌱 I firmly believe in the power of learning, because in the tech world, you're never done discovering!
+
+### 🚀 Welcome to my Tech Playground! 🎉
+
+<p align="center">Here's my arsenal of tools and languages that weave magic into software creation! 🎩✨🚀</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518">&nbsp;
+  <img src="https://img.shields.io/badge/-Spring-05122A?style=for-the-badge&logo=spring&logoColor=BD70B">&nbsp;
+  <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=48BBFD">&nbsp;
+  <img src="https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC">&nbsp;
+  <img src="https://img.shields.io/badge/-OCaml-05122A?style=for-the-badge&logo=OCaml">&nbsp;
+  <img src="https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git">&nbsp;
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github">&nbsp;
+  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC">&nbsp;
+  <img src="https://img.shields.io/badge/-IntelliJ-05122A?style=for-the-badge&logo=IntelliJIDEA">&nbsp;
+  <img src="https://img.shields.io/badge/-Xcode-05122A?style=for-the-badge&logo=Xcode">&nbsp;
+  <img src="https://img.shields.io/badge/-Swift-05122A?style=for-the-badge&logo=Swift">&nbsp;
+  <img src="https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=Docker">&nbsp;
+  <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=Python">&nbsp;
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=JavaScript">&nbsp;
+  <img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=React">&nbsp;
+  <img src="https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=TypeScript">
+</p>
+
+<p align="center">Get ready to explore, innovate, and code like never before! Together, we'll create marvels that leave a lasting impact on the digital world. 💻🚀</p>
+
+<div align="center">
+  <h2>💼 Connect with me:</h2>
+  <a href="https://www.linkedin.com/in/ashraf-labidi-0xff3e">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+<br>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=GravityDarkLab&color=red" alt="Profile Views" />
 </div>
 
 
