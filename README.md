@@ -41,6 +41,9 @@
   <a href="https://www.linkedin.com/in/ashraf-labidi-0xff3e">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="mailto:labidiachraf6@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=mail.ru&logoColor=white"/>
+  </a>
 </div>
 <br>
 <div align="center">
