@@ -18,20 +18,19 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=Java&logoColor=FFA518">&nbsp;
   <img src="https://img.shields.io/badge/-Spring-05122A?style=for-the-badge&logo=spring&logoColor=BD70B">&nbsp;
+  <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=Python">&nbsp;
+  <img src="https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=Flask">&nbsp;
+  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=JavaScript">&nbsp;
+  <img src="https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=TypeScript">&nbsp;
+  <img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=React">&nbsp;
   <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=48BBFD">&nbsp;
+  <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=PostgreSQL&logoColor=48BBFD">&nbsp;
   <img src="https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC">&nbsp;
   <img src="https://img.shields.io/badge/-OCaml-05122A?style=for-the-badge&logo=OCaml">&nbsp;
-  <img src="https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git">&nbsp;
-  <img src="https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github">&nbsp;
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC">&nbsp;
-  <img src="https://img.shields.io/badge/-IntelliJ-05122A?style=for-the-badge&logo=IntelliJIDEA">&nbsp;
-  <img src="https://img.shields.io/badge/-Xcode-05122A?style=for-the-badge&logo=Xcode">&nbsp;
   <img src="https://img.shields.io/badge/-Swift-05122A?style=for-the-badge&logo=Swift">&nbsp;
-  <img src="https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=Docker">&nbsp;
-  <img src="https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=Python">&nbsp;
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=JavaScript">&nbsp;
-  <img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=React">&nbsp;
-  <img src="https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=TypeScript">
+  <img src="https://img.shields.io/badge/-Flutter-05122A?style=for-the-badge&logo=Flutter">&nbsp;
+  <img src="https://img.shields.io/badge/-Figma-05122A?style=for-the-badge&logo=Figma">&nbsp;  
+  <img src="https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=Docker"> 
 </p>
 
 <p align="center">Get ready to explore, innovate, and code like never before! Together, we'll create marvels that leave a lasting impact on the digital world. 💻🚀</p>
