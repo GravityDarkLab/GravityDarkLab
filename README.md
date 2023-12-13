@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/-Flask-05122A?style=for-the-badge&logo=Flask">&nbsp;
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=JavaScript">&nbsp;
   <img src="https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=TypeScript">&nbsp;
+  <img src="https://img.shields.io/badge/-Dart-05122A?style=for-the-badge&logo=Dart">&nbsp;
   <img src="https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=React">&nbsp;
   <img src="https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=48BBFD">&nbsp;
   <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=PostgreSQL&logoColor=48BBFD">&nbsp;
