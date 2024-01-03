@@ -34,7 +34,13 @@
   <img src="https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=Docker"> 
 </p>
 
-<p align="center">Get ready to explore, innovate, and code like never before! Together, we'll create marvels that leave a lasting impact on the digital world. 💻🚀</p>
+<p align="center">Get ready to explore, innovate, and code like never before! Together, we'll create marvels that leave a lasting impact on the digital world 🚀</p>
+
+<div align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=GravityDarkLab&rank_icon=percentile&theme=radical">
+    <img alt="Achraf's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=GravityDarkLab&rank_icon=percentile&theme=radical"/>
+  </a>
+</div>
 
 <div align="center">
   <h2>💼 Connect with me:</h2>
